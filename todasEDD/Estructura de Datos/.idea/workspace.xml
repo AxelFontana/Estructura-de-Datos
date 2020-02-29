@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a390713f-aa01-4f7a-bad7-ad41b77ff58e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Estructura-de-Datos" />
+  </component>
+  <component name="ProjectId" id="1SwGPTmyVKHVLQBgMCChAV5u3N4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="TDAArbol" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphTests (1)">
+    <configuration name="CaminoEconomicoAxel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaminoEconomicoAxel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TDAGrafo.ListaAdyacencia.Ejercicios" />
+      <module name="Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TDAGrafo.ListaAdyacencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjerciciosPractica2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TDAGrafo.ListaAdyacencia.EjerciciosPractica2" />
+      <module name="Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TDAGrafo.ListaAdyacencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TDAGrafo.MatrizDeAdyacencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TDAGrafo.MatrizDeAdyacencia" />
+      <option name="MAIN_CLASS_NAME" value="TDAGrafo.MatrizDeAdyacencia.GraphTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TDAGrafo.ListaAdyacencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TDAGrafo.ListaAdyacencia" />
+      <option name="MAIN_CLASS_NAME" value="TDAGrafo.ListaAdyacencia.GraphTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CaminoEconomicoAxel" />
+      <item itemvalue="Application.Ejercicios" />
+      <item itemvalue="Application.EjerciciosPractica2" />
+      <item itemvalue="JUnit.GraphTests" />
+      <item itemvalue="JUnit.GraphTests (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphTests (1)" />
+        <item itemvalue="Application.EjerciciosPractica2" />
+        <item itemvalue="JUnit.GraphTests" />
+        <item itemvalue="Application.Ejercicios" />
+        <item itemvalue="Application.CaminoEconomicoAxel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a390713f-aa01-4f7a-bad7-ad41b77ff58e" name="Default Changelist" comment="" />
+      <created>1572467220420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572467220420</updated>
+      <workItem from="1572467221696" duration="197000" />
+      <workItem from="1572467436591" duration="49000" />
+      <workItem from="1574105214110" duration="2263000" />
+      <workItem from="1574108251618" duration="4216000" />
+      <workItem from="1574123620687" duration="5281000" />
+      <workItem from="1574128932982" duration="1642000" />
+      <workItem from="1574130599099" duration="1673000" />
+      <workItem from="1574197425182" duration="3000" />
+      <workItem from="1574271328142" duration="123000" />
+      <workItem from="1574302429647" duration="590000" />
+      <workItem from="1574360827993" duration="221000" />
+      <workItem from="1574362718959" duration="12000" />
+      <workItem from="1578256795963" duration="11241000" />
+      <workItem from="1578327972979" duration="10563000" />
+      <workItem from="1578507373240" duration="1894000" />
+      <workItem from="1579628224086" duration="5568000" />
+      <workItem from="1580331636242" duration="12817000" />
+      <workItem from="1580414209869" duration="3136000" />
+      <workItem from="1580417354180" duration="12784000" />
+      <workItem from="1580432801427" duration="2303000" />
+      <workItem from="1580502484601" duration="6513000" />
+      <workItem from="1580511978667" duration="242000" />
+      <workItem from="1580563891748" duration="4431000" />
+      <workItem from="1580572928178" duration="3879000" />
+      <workItem from="1580579679573" duration="721000" />
+      <workItem from="1580583920937" duration="10372000" />
+      <workItem from="1580602907484" duration="349000" />
+      <workItem from="1580684408445" duration="3468000" />
+      <workItem from="1580696260112" duration="3000" />
+      <workItem from="1580751737951" duration="13414000" />
+      <workItem from="1580843299235" duration="13999000" />
+      <workItem from="1580932969540" duration="852000" />
+      <workItem from="1581109523061" duration="5464000" />
+      <workItem from="1581127753647" duration="74000" />
+      <workItem from="1581132448120" duration="143000" />
+      <workItem from="1581187640423" duration="5629000" />
+      <workItem from="1581193456733" duration="3798000" />
+      <workItem from="1581275169821" duration="17196000" />
+      <workItem from="1581297037288" duration="3099000" />
+      <workItem from="1581300214100" duration="131000" />
+      <workItem from="1581302362236" duration="227000" />
+      <workItem from="1581374754505" duration="1230000" />
+      <workItem from="1581421528986" duration="10208000" />
+      <workItem from="1581509657496" duration="1189000" />
+      <workItem from="1581598027668" duration="600000" />
+      <workItem from="1581625209375" duration="597000" />
+      <workItem from="1581785920051" duration="336000" />
+      <workItem from="1581799280683" duration="5822000" />
+      <workItem from="1582308943615" duration="12684000" />
+      <workItem from="1582373078671" duration="2761000" />
+      <workItem from="1582387765568" duration="1885000" />
+      <workItem from="1582660233101" duration="9975000" />
+      <workItem from="1582841596929" duration="2830000" />
+      <workItem from="1582892548235" duration="2422000" />
+      <workItem from="1582895671938" duration="5640000" />
+      <workItem from="1582926953552" duration="402000" />
+      <workItem from="1582933254409" duration="731000" />
+      <workItem from="1582995992010" duration="598000" />
+      <workItem from="1583002798342" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="179" key="#CaminoEconomicoAxel" timestamp="1581280850711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="179" key="#CaminoEconomicoAxel/0.0.1920.1040@0.0.1920.1040" timestamp="1581280850711" />
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581206902984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581206902984" />
+    <state x="782" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578335114054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578335114054" />
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580344103829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1580344103829" />
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578335117933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1578335117933" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580687398958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580687398958" />
+    <state x="986" y="335" key="FileChooserDialogImpl" timestamp="1580417293273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="986" y="335" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580417293273" />
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1582919458033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582919458033" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1582919458033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582919458033" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1582919458033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582919458033" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1582919458033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582919458033" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580432777217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580432777217" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1580432777217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580432777217" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1580432777217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580432777217" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1580432777217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580432777217" />
+    <state x="686" y="154" key="SettingsEditor" timestamp="1580417310891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580417310891" />
+    <state x="776" y="299" key="chooseDestDirectoryDialog" timestamp="1580416928114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="299" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580416928114" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581294716675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581294716675" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Estructura_de_Datos$GraphTests.ic" NAME="GraphTests Coverage Results" MODIFIED="1580762306245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>TDAGrafo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
