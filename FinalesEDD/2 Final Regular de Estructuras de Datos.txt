@@ -1,0 +1,11 @@
+Final 19/12/2018
+1) Grafo con matriz de adyacencia. UML de las clases y variables que tienen. Implementar constructor y método insertEdge para un grafo no dirigido. Implementar una operación que devuelva el costo de un camino entre dos vértices
+2) Recorridos de árboles, describirlos y hacerlos en pseudocódigo. Tiempo de ejecución justificado con la cuenta.
+3) Que es una cola con prioridad. Implementaciones, Qué es una heap. Explicar inserción y eliminación. Dar tiempo de ejecución. Dar ejemplo de minheap y maxheap.
+4) Definir arbol 2/3, explicar tiempo y como funciona. Dar ejemplo de 10 inserciones. (Uno exactamente igual puede ser con AVL, tenes que entender como se insertan y buscan en c/u y hacer inserciones)
+
+Final 26/12/2018
+1) Diccionario con ABB. Cómo se soluciona que el arbol contenga varias entradas con misma clave? Tiempo de ejecución del find/findAll. Que estructuras necesita para funcionar (uml c variables). Implementar el constructor, el entries y el insert. Implementar un método externo al tda, que te pasan un diccionario D1 como el q implementaste, un valor X, y tenes que devolver un D2 como el q implementaste, con todas las entradas en D1 que sean menores a X.
+2) Como funciona Dijkstra, implementarlo en peusocódigo, tiempo de ejecución.
+3) Que es el tiempo de ejecución. Definir Big-Oh, regla de suma y regla de producto. Como se calcula el orden de un algoritmo (las reglas que aplicas)
+4) Recorridos de grafo en profundidad y en anchura, como funcionan e implementarlos en pseudocódigo. Tiempo de ejecución justificado correctamente teniendo en cuenta que sea para un grafo con lista de adyacencia y para un grafo con matriz de adyacencia.

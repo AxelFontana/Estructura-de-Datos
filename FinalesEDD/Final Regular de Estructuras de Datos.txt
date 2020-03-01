@@ -1,0 +1,11 @@
+Final Estructuras de datos
+11\08\2016
+Segrio Gomez
+
+De teoria fue:
+1) DFS y BFS. Explicar algoritmo, tiempo de ejecucion justificando y ejemplos.
+2)Tiempo de Ejecucion. Big Oh, Omega y Thetha. Explicar como se hace con la sintaxis de codigo y explicar como de froma recursisva y un ejemplo de tiempo de ejecucion de uno recursivo que no sea el factorial.
+3)Colas con prioridad. Explicar las tres formas de implementacion. Explicar insercion y eleiminacion de cada una. Ejemplo de como funciona el heap.
+PRACTICA:
+implementar un diccionario con ABB y decir en que consiste la estructura. implementar INSERT y el ENTRIES.
+Otro ejercicio que teniendo un diccionario, devolver un mapeo que dada una clave del diccionario, te devuelva la cantidad de entradas que tenia ese diccionario con esa clave.Por ejemplo si tenes D={(a,1)(a,4)(b,3)} debias hacer algo tipo {(a,2)(b,1)} porque hay 2 entradas con clave A y una con clave B.
